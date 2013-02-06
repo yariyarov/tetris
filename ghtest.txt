@@ -1,5 +1,5 @@
 
-hellow git
+hello git
 second line
 
 f2 feature
