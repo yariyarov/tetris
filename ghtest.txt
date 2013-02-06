@@ -1,4 +1,8 @@
+
 hellow git
 second line
 
 f2 feature
+
+fix master
+
