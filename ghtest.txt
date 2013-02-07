@@ -1,4 +1,4 @@
-hellow git
+hello git
 second line
 f1 feature
 fix master
