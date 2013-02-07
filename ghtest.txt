@@ -1,7 +1,5 @@
 hello git
 second line
-
+f1 feature
 f2 feature
-
 fix master
-
